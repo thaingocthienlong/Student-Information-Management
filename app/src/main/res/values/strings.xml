@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Information Management</string>
+    <string-array name="user_roles">
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>Employee</item>
+    </string-array>
+</resources>
